@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+
+Hi Humans!
+Be like a star: distant and dying.
+
+Ciao!
